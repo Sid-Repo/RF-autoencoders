@@ -4,7 +4,7 @@ The project was developed to detect anomalous transmissions of RF signals in a s
 
 Implemented using Deep standard autoencoder, Deep VAE autoencoder, and Deep LSTM autoencoder to evaluate different models.
 
---- dataset source: RF signal data obtained using Software-defined radio (SDR) and MATLAB
+Dataset source: RF signal data obtained using Software-defined radio (SDR) and MATLAB
 
 Results:
 
